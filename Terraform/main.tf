@@ -8,7 +8,6 @@ terraform {
 }
 
 provider "google" {
-  credentials = "D:\\DE\\terrademo\\keys\\my_creds.json"
   project     = var.Project_ID
   region      = var.Region
 }

@@ -1,0 +1,5 @@
+google-cloud-bigquery
+google-cloud
+google.cloud
+google.cloud.bigquery
+db-dtypes
